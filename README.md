@@ -6,7 +6,7 @@ Working with:
 | • **Javascript** | • **Java**   | • **Python** |
 | :--------------- | :----------- | :----------- |
 | • **React**      | • **Spring** | • **Redux**  |
-- 🔭 I’m currently working on Finishing LambdaSchool (March 5th!)
+- 🔭 I just recently finished Lambda School!
 - 🌱 I’m currently learning FullStack Development
 - 📫 Contact me at <trevor@trevorbuchanan.com>
 
